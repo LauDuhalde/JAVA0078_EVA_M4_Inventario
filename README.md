@@ -60,12 +60,36 @@ JAVA0078_M4_InventarioConProductos/
    - Salir  
 
 ```
+Producto agregado exitosamente
+Producto agregado exitosamente
+Producto agregado exitosamente
+Producto agregado exitosamente
+Producto agregado exitosamente
+
 === MENÚ ===
 1. Agregar producto
 2. Buscar producto
 3. Eliminar producto
 4. Listar productos
 5. Salir
+Seleccione una opción: 4
+
+Productos en inventario:
+Producto [id=P001, nombre=Televisor, precio=250000, cantidad=10]
+Producto [id=P002, nombre=Refrigerador, precio=450000, cantidad=5]
+Producto [id=P003, nombre=Lavadora, precio=300000, cantidad=3]
+Producto [id=P004, nombre=Microondas, precio=60000, cantidad=15]
+Producto [id=P005, nombre=Notebook, precio=550000, cantidad=7]
+
+=== MENÚ ===
+1. Agregar producto
+2. Buscar producto
+3. Eliminar producto
+4. Listar productos
+5. Salir
+Seleccione una opción: 3
+Ingrese ID del producto a eliminar: P003
+Producto eliminado correctamente
 ```
 
 ---
